@@ -1,0 +1,4 @@
+﻿AT : 00:18 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 00:19 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 124
+AT : 00:19 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemLogConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 00:19 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 123

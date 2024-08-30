@@ -1,0 +1,5 @@
+﻿AT : 06:53 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 06:54 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 124
+AT : 06:54 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemLogConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 06:54 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 123
+{"errormessage":"xxxxxxxxx - there is no \u0027secretlabid\u0027 in header with url : /Tools/AGenerateTs so We try to get the CrysisLabID and use :  el01Core ,   xxxxxxxxxxxx","datetime":"8/11/2024 3:07:04PM","level":1,"type":1,"callerName":"Start.MoveNext.InvokeAsync"}

@@ -1,0 +1,19 @@
+﻿{"errormessage":"xxxxxxxxx - there is no \u0027secretlabid\u0027 in header with url : / so We try to get the CrysisLabID and use :  el01Core ,   xxxxxxxxxxxx","datetime":"8/11/2024 12:35:24PM","level":1,"type":1,"callerName":"Start.MoveNext.InvokeAsync"}
+AT : 35:24 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 35:25 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 124
+AT : 35:25 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemLogConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 35:25 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 123
+AT : 48:12 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 48:12 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 48:12 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 48:12 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 48:12 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 124
+AT : 48:12 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemLogConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 48:12 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 124
+AT : 48:12 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemLogConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 48:12 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 124
+AT : 48:12 PM Func: [ GetValueOfColumnBySeystemSecretID ] >>>> Message: Get [ SystemLogConectionString ] For Secret Lab ID [ el01Core ] From DataBase
+AT : 48:12 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 123
+AT : 48:12 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 123
+AT : 48:12 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 124
+AT : 48:13 PM Func: [ ExecuteGetOnValue ] >>>> Message: ConnectionString Length  is 123
